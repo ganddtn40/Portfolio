@@ -4,7 +4,7 @@ Selamat datang di repositori **Portfolio**. Ini adalah website portofolio pribad
 
 ## 🔗 Demo
 
-[Lihat Portofolio Live](https://your-username.github.io/your-portfolio-repo/)  
+[Lihat Portofolio Live]([https://your-username.github.io/your-portfolio-repo/](https://portfolioglh.vercel.app/))  
 
 ## ✨ Fitur
 
