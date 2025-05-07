@@ -6,7 +6,7 @@ Selamat datang di repositori **Portfolio**. Ini adalah website portofolio pribad
 
 ## 🔗 Demo
 
-[Lihat Portofolio Live](http://horse-giving-primarily.ngrok-free.app)  
+[Lihat Portofolio Live](http://portofolion40.vercel.app)  
 
 ## ✨ Fitur
 
