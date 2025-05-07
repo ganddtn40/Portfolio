@@ -1,6 +1,6 @@
 # Galih Aditya Yoga Portfolio
 
-![Banner Portfolio](banner.png)
+![Banner Portfolio](a.png)
 
 Selamat datang di repositori **Portfolio**. Ini adalah website portofolio pribadi yang dibuat untuk menampilkan proyek, pengalaman, dan keterampilan saya di bidang teknologi dan nerworking.
 
