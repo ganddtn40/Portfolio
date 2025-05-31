@@ -21,5 +21,5 @@ Selamat datang di repositori **Portfolio**. Ini adalah website portofolio pribad
 
 - HTML5 & CSS3
 - JavaScript
-- [Framework/library yang Anda gunakan, contoh: React.js, Vue.js, Tailwind CSS, Bootstrap]
+- React JS
 - Git & GitHub
